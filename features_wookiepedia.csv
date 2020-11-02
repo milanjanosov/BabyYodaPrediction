@@ -1,0 +1,223 @@
+,Bio_NumSent,Bio_Readability,Bio_Sent_pos,Bio_Sent_neu,Bio_Sent_neg,Bio_Sent_comp,Order,Lightsaber,Gender,Species,Hair color,Eye color,Skin color,Height
+Meloria's Jedi Master,18,7.1953125,0.0,1.0,0.0,0.0,jedi,,Male,,gray,yellow,light,1.73
+Cin Drallig,57,11.4591309071157,0.033,0.8440000000000001,0.12300000000000001,-0.9976,jedi,green,Male,Human,blond,blue,light,1.0
+K'ungfu,26,11.757887323943653,0.132,0.8079999999999999,0.06,0.9226,jedi,,Male,,gray,gray,tan,1.95
+Rana Kant,18,6.817318840579713,0.0,1.0,0.0,0.0,jedi,,Male,,white,other,other,2.02
+Jai Maruk,23,11.246761904761904,0.037000000000000005,0.862,0.10099999999999999,-0.961,jedi,blue,Male,Human,gray,brown,other,1.51
+Kit Fisto,359,11.57100595759776,0.069,0.7959999999999999,0.135,-1.0,jedi,,Male,Nautolan,other,black,green,1.0
+Bant Eerin,23,7.64725,0.038,0.9620000000000001,0.0,0.4767,jedi,,Female,Mon Calamari,white,green,orange,1.73
+Kep-She,43,12.27626715092817,0.10099999999999999,0.741,0.157,-0.9911,jedi,,Female,,brown,brown,green,1.93
+Niobaya,21,11.061338028169011,0.03,0.97,0.0,0.2732,jedi,,Female,,black,black,green,1.78
+Cyslin Myr,29,10.971354166666664,0.04,0.8440000000000001,0.11599999999999999,-0.9531,jedi,,Female,Mirialan,black,other,green,1.99
+Luminara Unduli,149,13.529527708472436,0.10300000000000001,0.757,0.14,-0.9991,jedi,green,Female,Mirialan,black,blue,green,1.0
+Nil Idyth,23,11.757317073170734,0.0,0.871,0.129,-0.9620000000000001,jedi,,Male,,other,other,green,1.75
+Eno Cordova,53,12.558251010327794,0.099,0.852,0.048,0.9917,jedi,blue,Male,Human,white,brown,light,1.54
+Saesee Tiin,69,12.993505263157893,0.06,0.805,0.134,-0.9990000000000001,jedi,,Male,Iktotchi,black,yellow,light,1.0
+Lene Kostana,43,12.36716275659824,0.084,0.8390000000000001,0.077,0.0,jedi,,Female,Altiri,white,black,purple,1.2
+Wom-Nii Gnaden,20,9.064787234042557,0.027000000000000003,0.861,0.11199999999999999,-0.8225,jedi,,Male,,other,black,light,1.66
+The Child,218,10.443585714161928,0.068,0.831,0.10099999999999999,-0.9991,jedi,,Male,Yoda\'s species,white,brown,green,0.0
+Lyr Farseeker,22,8.646375000000003,0.068,0.932,0.0,0.7783,jedi,,Male,,other,blue,light,1.72
+Neebo,26,11.424820936639115,0.024,0.838,0.138,-0.9842,jedi,,Female,,other,other,light,1.74
+Ferleen Snee,25,11.319227272727268,0.0,0.932,0.068,-0.8909999999999999,jedi,,Male,Human,white,green,gray,1.8
+Pong Krell,180,10.257735642370086,0.065,0.792,0.14300000000000002,-0.9997,jedi,,Male,Besalisk,black,yellow,other,2.0
+Stellan Gios,26,6.345089285714284,0.064,0.922,0.013000000000000001,0.8436,jedi,blue,Male,Human,brown,brown,light,1.64
+Elio,23,8.036626506024097,0.027000000000000003,0.943,0.03,-0.0772,jedi,,Female,,gray,other,purple,1.61
+Shadday Potkin,22,10.015357142857148,0.0,0.956,0.044000000000000004,-0.5994,jedi,,Female,Human,brown,brown,light,1.77
+Tu-Anh,26,7.4220000000000015,0.0,0.85,0.15,-0.9393,jedi,,Female,Humanoid,brown,blue,dark,2.09
+Radorm,21,7.374458874458875,0.0,0.971,0.028999999999999998,-0.3182,jedi,,Female,,white,brown,fair,2.15
+Veleckra,21,7.5391818181818175,0.039,0.961,0.0,0.29600000000000004,jedi,,Male,,black,blue,red,1.02
+Yaddle,55,10.816689511323004,0.037000000000000005,0.919,0.044000000000000004,-0.8869,jedi,green,Female,Yoda\'s species,other,green,green,0.0
+Ki-Adi-Mundi,299,13.697214432905,0.076,0.7759999999999999,0.14800000000000002,-1.0,jedi,blue,Male,Cerean,white,yellow,light,1.0
+Coleman Kcaj,51,11.080934777752962,0.053,0.866,0.08199999999999999,-0.9833,jedi,green,Male,Ongree,black,yellow,other,2.09
+Even Piell,94,8.360501573048438,0.068,0.802,0.13,-0.9988,jedi,,Male,Lannik,black,blue,light,1.0
+Halsey,38,9.197278911564624,0.049,0.8140000000000001,0.13699999999999998,-0.9927,jedi,,Male,Roonan,bald,blue,gray,2.09
+Mana,20,7.5482269503546116,0.0,1.0,0.0,0.0,jedi,,Male,,other,yellow,light,0.55
+Taron Malicos,123,10.939058389690617,0.094,0.7809999999999999,0.124,-0.9969,jedi,,Male,Human,gray,blue,fair,1.44
+Odell,22,7.534057971014492,0.0,1.0,0.0,0.0,jedi,,Male,,other,gray,fair,1.83
+Plun Kil,28,7.790722891566265,0.0,0.925,0.075,-0.9552,jedi,blue,Male,Besalisk,black,yellow,other,1.73
+Mott Corbet,20,6.823939393939398,0.0,1.0,0.0,0.0,jedi,,Male,,gray,black,gray,1.89
+Jrul,24,12.01642076502732,0.017,0.8540000000000001,0.129,-0.9423,jedi,,Male,,white,blue,tan,1.61
+Allynic E'Kles,20,9.906081081081084,0.0,1.0,0.0,0.0,jedi,,Male,Caamasi,black,other,light,1.81
+Oorallon,25,7.633684210526315,0.026000000000000002,0.9540000000000001,0.02,0.1774,jedi,,Male,,gray,yellow,light,1.62
+Jor Aerith,24,5.328512658227846,0.0,0.971,0.028999999999999998,-0.3182,jedi,,Female,Mirialan,black,green,red,1.92
+Tiplee,80,13.710484994159401,0.049,0.7829999999999999,0.16899999999999998,-0.9996,jedi,blue,Female,Mikkian,white,blue,red,2.06
+Vonkhel,22,11.507692307692311,0.063,0.884,0.053,0.0772,jedi,,Male,,brown,blue,fair,1.45
+Plo Koon,403,12.333452153407677,0.083,0.777,0.14,-1.0,jedi,,Male,Kel Dor,other,green,orange,1.0
+Tera Sinube,37,13.294442988204453,0.028999999999999998,0.8959999999999999,0.075,-0.9432,jedi,blue,Male,Cosian,white,other,green,1.0
+Soara Antana,21,11.71628571428571,0.036000000000000004,0.915,0.049,-0.4404,jedi,,Male,,black,gray,dark,0.53
+Uvell,29,12.274246575342467,0.043,0.846,0.111,-0.9191,jedi,,Male,,brown,brown,dark,1.97
+Alxa Kress,22,7.9966216216216255,0.046,0.9540000000000001,0.0,0.5423,jedi,,Male,Anomid,other,yellow,green,2.37
+Mar Ti Kam'Ron,28,9.909999999999997,0.025,0.9390000000000001,0.036000000000000004,-0.25,jedi,,Male,,white,other,green,1.98
+Aayla Secura,134,10.527215499238537,0.065,0.797,0.138,-0.9996,jedi,blue,Female,Twi\'lek (Rutian),blond,other,other,1.0
+Nomen Karr,149,10.211480717170373,0.08900000000000001,0.75,0.162,-0.9997,jedi,green,Male,Human,gray,blue,fair,1.87
+Tho-Mes Drei,19,8.509583333333332,0.046,0.9540000000000001,0.0,0.3818,jedi,,Male,Human,gray,yellow,pale,1.69
+Jocasta Nu,174,11.909640101278029,0.063,0.8190000000000001,0.11900000000000001,-0.9997,jedi,blue,Female,Human,white,blue,light,1.0
+Uro Koo,23,12.288111380145276,0.043,0.938,0.02,0.4939,jedi,,Female,Neti,other,black,fair,1.68
+Sifo-Dyas,164,12.733766947704225,0.08900000000000001,0.7909999999999999,0.12,-0.9992,jedi,,Male,Human,black,brown,tan,1.92
+Ima-Gun Di,79,12.049055612319375,0.063,0.792,0.146,-0.9988,jedi,blue,Male,Nikto,black,blue,orange,1.77
+Yula Braylon,28,9.740131578947368,0.025,0.9390000000000001,0.036000000000000004,-0.128,jedi,,Female,,black,blue,green,1.51
+Ulic Qel-Droma's Jedi Master,22,11.017435483870964,0.028999999999999998,0.882,0.08900000000000001,-0.8641,jedi,,Male,,gray,green,red,1.72
+Poli Dapatian,31,8.52341642228739,0.016,0.9670000000000001,0.017,-0.0772,jedi,,Male,,black,other,tan,2.02
+Prokreisha,26,11.197243839169914,0.040999999999999995,0.878,0.081,-0.9039,jedi,,Male,Humanoid,brown,yellow,purple,1.76
+Maslo-Skaff,22,10.022365591397849,0.009000000000000001,0.9590000000000001,0.032,-0.5859,jedi,blue,Male,Sullustan,white,black,light,1.46
+Quinlan Vos,390,11.853156907331948,0.079,0.789,0.132,-0.9999,jedi,green,Male,Kiffar,black,brown,tan,1.0
+Va Zhurro,19,10.601923076923079,0.067,0.8170000000000001,0.11599999999999999,-0.6486,jedi,,Female,,black,yellow,green,1.59
+Sskeer,32,6.358751182592241,0.06,0.828,0.11199999999999999,-0.8684,jedi,,Male,Trandoshan,white,yellow,green,1.96
+Lyoon,25,9.832650954421503,0.083,0.7859999999999999,0.131,-0.9118,jedi,blue,Male,,black,green,other,1.78
+Oppo Rancisis,66,13.409310344827588,0.047,0.8370000000000001,0.11599999999999999,-0.9989,jedi,green,Male,Thisspiasian,white,blue,green,1.0
+Baird Kantoo,85,11.662727553796685,0.08800000000000001,0.8370000000000001,0.076,0.9075,jedi,,Male,Human,gray,blue,light,1.46
+Haaran Balmor,20,8.084577922077921,0.096,0.904,0.0,0.8402,jedi,,Male,,black,green,green,2.62
+Douglas Sunvale,23,7.09123721881391,0.07,0.9,0.028999999999999998,0.7955,jedi,,Male,,blond,other,pale,1.82
+Phin-Law Wo,21,6.694384615384613,0.0,1.0,0.0,0.0,jedi,,Male,,black,other,gray,2.0
+Nes Ukul's master,23,9.680833333333336,0.049,0.912,0.039,-0.0516,jedi,,Male,,gray,brown,light,1.94
+Sta-Den Eekin,25,12.120267595307915,0.0,0.851,0.149,-0.9903,jedi,,Male,Klatooinian,blond,other,other,2.0
+Kal-Don,24,9.329090909090908,0.052000000000000005,0.784,0.16399999999999998,-0.9670000000000001,jedi,,Male,,white,blue,tan,1.53
+Qui-Gon Jinn,411,12.199589750501538,0.08,0.82,0.10099999999999999,-0.9997,jedi,,Male,Human (Coruscanti),brown,blue,light,1.0
+Broden Kel Verdox,23,10.426964769647695,0.051,0.8540000000000001,0.095,-0.8740000000000001,jedi,,Male,,bald,blue,light,1.09
+Thongla Jur,27,9.90909210960713,0.022000000000000002,0.95,0.027000000000000003,-0.29600000000000004,jedi,,Female,Anx,other,gray,gray,1.92
+Ri-Lee Howell,42,16.367550505050502,0.066,0.87,0.064,-0.5239,jedi,,Male,,black,yellow,light,1.96
+Aryzah,24,7.280992907801419,0.07400000000000001,0.8640000000000001,0.063,-0.1002,jedi,,Female,Human,bald,blue,green,1.74
+Ilia Orpin,24,13.60484375,0.063,0.88,0.057,0.29600000000000004,jedi,,Female,,white,yellow,tan,1.84
+Anstak,22,9.4707326007326,0.046,0.9329999999999999,0.021,0.4767,jedi,,Male,,brown,other,red,1.84
+Odan-Urr,31,13.09648336086854,0.069,0.851,0.08,-0.8176,jedi,,Male,,gray,other,gray,1.94
+Luke Skywalker,1231,12.716188908832065,0.086,0.7909999999999999,0.12300000000000001,-1.0,jedi,green,Male,Human,blond,blue,light,1.0
+Oo'ob,48,10.678062865497077,0.038,0.903,0.059000000000000004,-0.9257,jedi,,Male,Gigoran,gray,blue,green,1.77
+Cherff Maota,26,7.985999999999998,0.03,0.9329999999999999,0.037000000000000005,-0.29600000000000004,jedi,,Male,,blond,other,light,2.18
+J'ilk Torlin,21,6.6713953488372075,0.032,0.941,0.026000000000000002,-0.0516,jedi,,Male,Ishi Tib,other,yellow,other,1.35
+Tiplar,87,14.240387513818682,0.046,0.8420000000000001,0.11199999999999999,-0.9990000000000001,jedi,green,Female,Mikkian,gray,blue,green,1.71
+Suu-Tonn,21,6.612169811320754,0.0,0.9540000000000001,0.046,-0.34,jedi,,Male,,white,blue,fair,0.77
+Kirak Infil'a,150,9.589328167861783,0.068,0.7929999999999999,0.139,-0.9995,jedi,green,Male,,white,black,gray,1.59
+Val Isa,20,9.64741935483871,0.08800000000000001,0.892,0.019,0.8381,jedi,,Female,,gray,yellow,fair,1.2
+Thorpe,18,10.132631578947368,0.0,1.0,0.0,0.0,jedi,,Male,,black,other,red,1.99
+Obi-Wan Kenobi,1441,12.86126831546025,0.084,0.782,0.134,-1.0,jedi,,Male,Human,other,blue,fair,1.0
+Vo'ren Faalo,25,13.389562715765244,0.0,0.97,0.03,-0.8017,jedi,,Male,,black,yellow,light,1.75
+Ooba-Neba Nocci,20,6.092142857142857,0.0,1.0,0.0,0.0,jedi,,Male,,brown,brown,light,1.8
+Stass Allie,54,9.018887306013578,0.04,0.872,0.08800000000000001,-0.9937,jedi,green,Female,Tholothian,gray,other,green,1.0
+Tholme,34,12.743956746129275,0.084,0.7509999999999999,0.165,-0.9869,jedi,,Male,,black,brown,green,2.28
+Depa Billaba,236,11.110538614056695,0.068,0.804,0.129,-0.9998,jedi,,Female,Human,other,brown,tan,1.0
+Shaak Ti,386,11.785628189436025,0.07200000000000001,0.79,0.13699999999999998,-1.0,jedi,blue,Female,Togruta,other,blue,red,1.0
+Unidentified Finhead Jedi,18,8.114436090225563,0.0,0.951,0.049,-0.7003,jedi,,Male,,white,brown,fair,0.57
+Tenth Brother,217,10.844654635299172,0.049,0.851,0.10099999999999999,-0.9993,jedi,green,Male,Miraluka,gray,brown,tan,2.7
+Avar Kriss,45,7.7533108108108095,0.098,0.884,0.018000000000000002,0.9901,jedi,green,Female,Human,blond,brown,light,1.25
+Mace Windu,726,14.353829280533766,0.107,0.7559999999999999,0.13699999999999998,-1.0,jedi,blue,Male,Human,black,brown,dark,1.0
+Coleman Trebor,34,9.976112412177986,0.040999999999999995,0.8079999999999999,0.151,-0.9947,jedi,green,Male,Vurk,white,black,gray,2.0
+Kez Velaz,23,10.47777777777778,0.036000000000000004,0.895,0.069,-0.5719,jedi,,Male,,other,brown,pale,2.11
+Lodaka,21,11.720028011204484,0.025,0.925,0.05,-0.4939,jedi,,Female,Rodian,black,green,purple,1.39
+Yoda,597,12.732215505834231,0.091,0.779,0.13,-1.0,jedi,green,Male,Yoda\'s species,white,green,green,0.0
+Kelleran Beq,44,8.356182142857143,0.11800000000000001,0.825,0.055999999999999994,0.9792,jedi,purple,Male,Human,black,brown,dark,1.82
+Rey Skywalker,1218,11.516602610477655,0.092,0.794,0.114,-1.0,jedi,yellow,Female,Human,brown,other,light,1.0
+Loden Greatstorm,24,5.805295698924733,0.14800000000000002,0.8340000000000001,0.018000000000000002,0.9577,jedi,yellow,Male,Twi\'lek (Rutian),gray,other,red,2.01
+Adi Gallia,77,10.952292609974547,0.051,0.785,0.16399999999999998,-0.9997,jedi,blue,Female,Tholothian,gray,blue,dark,1.0
+Odu,27,8.72171875,0.078,0.852,0.069,0.0516,jedi,blue,Male,Ithorian,brown,black,other,2.01
+Jaro Tapal,84,11.961628709454802,0.099,0.7909999999999999,0.11,-0.9518,jedi,,Male,Lasat,gray,green,purple,1.98
+Jmmaar,19,9.038478260869569,0.0,0.8909999999999999,0.109,-0.7783,jedi,green,Male,,gray,other,pale,1.53
+Chuang,33,8.32691729323308,0.135,0.7609999999999999,0.10300000000000001,0.8353,jedi,,Male,,brown,yellow,other,2.07
+Agen Kolar,48,10.436036866359448,0.054000000000000006,0.813,0.133,-0.9958,jedi,blue,Male,Zabrak (Iridonian),black,brown,dark,1.0
+Wiwa,23,9.142297297297297,0.07200000000000001,0.868,0.06,-0.0258,jedi,,Female,,white,green,orange,1.73
+Yarael Poof,64,12.087054443927407,0.052000000000000005,0.862,0.086,-0.99,jedi,blue,Male,Quermian,blond,other,other,2.0
+Eeth Koth,188,11.370343358395992,0.051,0.8190000000000001,0.13,-0.9999,jedi,green,Male,Zabrak (Iridonian),black,brown,tan,1.0
+Bran Ath'Morath,22,10.238605442176867,0.0,0.929,0.071,-0.7579,jedi,yellow,Male,,black,yellow,fair,0.79
+Chiata,24,9.548961038961039,0.0,0.8340000000000001,0.166,-0.9601,jedi,,Female,,black,other,gray,1.6
+Gretz Droom,107,11.758411751052757,0.048,0.892,0.06,-0.9646,jedi,,Male,,gray,other,fair,2.13
+Chon Actrion,20,6.5186153846153845,0.062,0.938,0.0,0.6369,jedi,,Male,,other,brown,dark,1.9
+Trennis,39,13.34549356223176,0.024,0.867,0.109,-0.9623,jedi,,Female,,gray,other,red,1.99
+Wishan,20,6.7650000000000015,0.071,0.929,0.0,0.4767,jedi,,Male,Duros,brown,other,green,1.96
+Bolla Ropal,27,12.455687645687648,0.0,0.867,0.133,-0.9674,jedi,,Male,Rodian,other,blue,green,1.0
+Tosan,41,9.435560133917077,0.016,0.953,0.031,-0.6597,jedi,yellow,Female,Zygerrian,other,other,tan,1.7
+Spindrall,77,13.910930909090908,0.087,0.805,0.10800000000000001,-0.9944,sith,red,Male,Human,gray,yellow,fair,2.34
+Darth Nox,359,12.144631816832176,0.08,0.799,0.121,-0.9999,sith,red,Male,,other,yellow,other,1.72
+Vindican,63,13.287478314745975,0.07,0.8140000000000001,0.11599999999999999,-0.9933,sith,red,Male,Sith,other,yellow,red,2.34
+Darth Krayt,578,12.268971500677884,0.081,0.779,0.14,-1.0,sith,red,Male,Human,brown,brown,light,1.0
+Dathka Graush,136,15.767167353368885,0.07200000000000001,0.852,0.076,-0.9129999999999999,sith,red,Male,Sith,other,yellow,gray,1.81
+Maul,827,12.17271090045599,0.076,0.767,0.158,-1.0,sith,red,Male,Zabrak,gray,yellow,red,1.0
+Shenayag,17,10.69636904761905,0.0,0.966,0.034,-0.25,sith,red,Male,,white,other,tan,1.78
+Jestat Vhool,44,10.785298423423418,0.051,0.872,0.077,-0.9584,sith,red,Male,Keshiri,other,other,purple,1.66
+Darth Gean,40,12.722416356877325,0.049,0.843,0.10800000000000001,-0.9888,sith,red,Female,Twi\'lek,brown,green,other,2.22
+Kherus,20,8.297386363636367,0.0,0.866,0.134,-0.9129,sith,red,Male,Sith,gray,yellow,red,1.99
+Uthar Wynn,153,11.240199781061847,0.079,0.732,0.18899999999999997,-0.9999,sith,red,Male,Humanoid,gray,yellow,light,1.86
+Hezzoran,18,10.69636904761905,0.0,0.966,0.034,-0.25,sith,red,Male,,white,blue,light,2.04
+Darth Thanaton,275,13.483662042936373,0.073,0.773,0.153,-1.0,sith,red,Male,Human,other,blue,fair,1.78
+Darth Mortis,87,15.218145674745875,0.048,0.8809999999999999,0.07,-0.9892,sith,red,Male,Human,black,other,pale,2.01
+Yuthura Ban,101,11.263437619138394,0.053,0.797,0.15,-0.9996,sith,red,Female,Twi\'lek,blond,other,other,1.84
+Naga Sadow,280,14.30748399333372,0.09,0.792,0.11800000000000001,-0.9997,sith,red,Male,Human/Sith hybrid,brown,brown,red,1.0
+Beldiss,27,10.807365591397849,0.059000000000000004,0.82,0.121,-0.9331,sith,red,Male,Human,bald,yellow,light,1.86
+Kaox Krul,113,10.939968207875438,0.071,0.7509999999999999,0.179,-0.9998,sith,red,Male,Human,other,gray,fair,1.97
+Darth Tenebrous's Sith Master,45,13.886697994987465,0.038,0.917,0.045,-0.7783,sith,red,Female,Twi\'lek,white,yellow,fair,1.77
+Calypho,26,9.11032258064516,0.026000000000000002,0.826,0.14800000000000002,-0.9702,sith,red,Male,Human,white,brown,fair,1.65
+Darth Malgus,542,12.644910823441686,0.085,0.7759999999999999,0.139,-1.0,sith,red,Male,Human,other,yellow,pale,2.0
+Amanoa,122,12.044874538561311,0.079,0.809,0.111,-0.9981,sith,red,Female,Human,white,brown,green,1.48
+Darth Ruyn,43,10.93614260115062,0.059000000000000004,0.851,0.09,-0.9683,sith,red,Male,Twi\'lek,brown,yellow,red,1.8
+Darth Tenebrous,126,14.095217226818967,0.099,0.813,0.087,0.9643,sith,red,Male,Bith,white,black,green,2.07
+Kas'im,171,14.376197284806473,0.084,0.799,0.11699999999999999,-0.9991,sith,red,Male,Twi\'lek,black,other,light,1.66
+Renning,22,11.068048780487807,0.017,0.802,0.18100000000000002,-0.9729,sith,red,Male,Human,gray,other,pale,1.91
+Tsiat,18,12.52346153846154,0.0,0.929,0.071,-0.5719,sith,red,Male,Keshiri,gray,black,other,1.8
+Darth Andeddu,180,14.622338383514155,0.077,0.8170000000000001,0.106,-0.9992,sith,red,Male,,gray,other,other,2.15
+Xat Hracken,36,12.121420412675016,0.049,0.828,0.12300000000000001,-0.9907,sith,red,Male,Human,black,yellow,other,1.8
+Tari Darkspanner,29,12.288594521778181,0.098,0.856,0.046,0.9714,sith,red,Female,Human,black,brown,dark,1.43
+Darth Talon,249,12.308247708124135,0.071,0.8029999999999999,0.126,-0.9998,sith,red,Female,Lethan Twi\'lek,black,yellow,red,2.01
+Darth Bane,135,12.753906143801622,0.085,0.782,0.133,-0.9993,sith,red,Male,Human,gray,yellow,pale,1.6
+Darth Marr,165,15.036788862172266,0.083,0.787,0.131,-0.9997,sith,red,Male,Human,brown,brown,light,1.46
+Skere Kaan,132,12.590937049841544,0.096,0.75,0.154,-0.9995,sith,red,Male,Human,black,blue,tan,1.0
+Darth Andru,30,12.0655303030303,0.034,0.853,0.113,-0.9806,sith,red,Male,Human,white,blue,fair,0.69
+Darth Caedus,2987,13.046543520257211,0.094,0.773,0.133,-1.0,sith,red,Male,Human,brown,brown,fair,1.0
+Darth Shaa,60,9.5020596797671,0.064,0.85,0.086,-0.9726,sith,red,Female,Humanoid,brown,black,gray,1.51
+Simus,131,14.526322026717546,0.063,0.845,0.092,-0.9988,sith,red,Male,Sith,other,other,gray,1.68
+Borthis,19,9.757244897959183,0.044000000000000004,0.885,0.071,-0.4215,sith,red,Male,,bald,blue,tan,1.71
+Vowrawn,100,11.385560707748626,0.099,0.7879999999999999,0.114,-0.9962,sith,red,Male,Sith,black,other,other,1.65
+Darth Vectivus,164,14.517958569569664,0.08900000000000001,0.816,0.096,-0.9951,sith,red,Male,Human,other,other,red,1.47
+Darth Malak,633,13.758981720706736,0.08,0.797,0.12300000000000001,-1.0,sith,red,Male,Human,other,blue,fair,1.55
+Darth Hadra,27,12.878657276995304,0.065,0.82,0.114,-0.9709,sith,red,Female,Human,black,brown,tan,2.66
+Dooku,825,11.385901572442556,0.086,0.758,0.156,-1.0,sith,red,Male,Human (Serennian),white,brown,light,1.0
+Darth Nihilus,354,11.327902360248453,0.069,0.818,0.113,-0.9999,sith,red,Male,Human (dark side aberration),black,other,other,1.8
+Vitiate,695,16.224923242519793,0.09300000000000001,0.779,0.128,-1.0,sith,red,Male,Sith (Original body),other,black,red,1.71
+Ludo Kressh,151,12.37420215606194,0.076,0.7290000000000001,0.195,-0.9999,sith,red,Male,"Sith Hybrid, Half-breed",brown,other,light,1.0
+Terrak Morrhage's Master,18,9.280756013745703,0.0,0.9209999999999999,0.079,-0.8442,sith,red,Female,,white,blue,fair,1.8
+Darth Wyyrlok (III),313,12.866983415193934,0.071,0.8079999999999999,0.121,-0.9999,sith,red,Male,Chagrian,other,yellow,red,1.67
+XoXaan,85,13.012811334289815,0.052000000000000005,0.8759999999999999,0.07200000000000001,-0.9907,sith,red,Female,Humanoid,black,gray,other,1.32
+Darth Skotia,73,13.306015014075696,0.067,0.79,0.14300000000000002,-0.9985,sith,red,Male,Human,other,blue,dark,1.6
+Vergere,136,13.208590382934087,0.068,0.8290000000000001,0.102,-0.9993,sith,red,Female,Fosh,other,other,red,1.0
+Seviss Vaa,81,12.246762412380676,0.079,0.813,0.109,-0.9955,sith,red,Male,,gray,brown,dark,1.82
+Darth Gravid,60,13.865596052374434,0.037000000000000005,0.887,0.076,-0.9864,sith,red,Male,Human,gray,blue,red,2.23
+Praven,140,16.519635370212328,0.109,0.728,0.162,-0.9997,sith,red,Male,Sith,other,other,red,1.42
+Ardran,21,10.965740740740735,0.033,0.8909999999999999,0.075,-0.5719,sith,red,Male,Human,other,other,pale,1.98
+Darth Caldoth's Master,19,8.827594936708863,0.0,0.9109999999999999,0.08900000000000001,-0.8176,sith,red,Male,,other,yellow,red,1.82
+Traan,53,15.07938699086899,0.054000000000000006,0.826,0.11900000000000001,-0.995,sith,red,Male,Human,gray,yellow,tan,1.76
+Olaris Rhea,134,11.521521120569998,0.069,0.8190000000000001,0.11199999999999999,-0.9991,sith,red,Female,Human,blond,blue,tan,1.75
+Darth Chratis,39,13.795574748353426,0.048,0.8220000000000001,0.13,-0.9961,sith,red,Male,Human,gray,other,pale,2.05
+Grathan,56,11.040529455630127,0.038,0.873,0.08900000000000001,-0.9846,sith,red,Male,Human,other,other,light,1.39
+Ruku Myal,27,9.895160478288233,0.087,0.784,0.129,-0.8979,sith,red,Male,,black,black,red,2.09
+Darth Howl,27,12.753801652892564,0.14300000000000002,0.7929999999999999,0.064,0.9876,sith,red,Male,Human,black,blue,other,2.23
+Orilltha,17,10.69636904761905,0.0,0.966,0.034,-0.25,sith,red,Male,,gray,brown,other,1.79
+Darth Ikoral,30,11.208103649391768,0.1,0.787,0.113,-0.8981,sith,red,Male,Sith,white,yellow,red,1.69
+Darth Angral,183,11.94824706733229,0.081,0.748,0.171,-0.9999,sith,red,Male,Human,gray,green,fair,1.73
+Yakata,19,6.19616666666667,0.0,1.0,0.0,0.0,sith,red,Male,,bald,brown,light,1.87
+Darth Gorgos,21,10.93609657947686,0.026000000000000002,0.873,0.10099999999999999,-0.9136,sith,red,Female,,black,blue,red,1.83
+Darth Cognus,255,14.200792594774034,0.085,0.815,0.1,-0.9990000000000001,sith,red,Female,Iktotchi,white,yellow,red,1.89
+Darth Caldoth,28,10.799276485788114,0.043,0.8809999999999999,0.077,-0.813,sith,red,Male,Duros,other,yellow,green,1.85
+Darth Scabrous,23,12.988647092688543,0.10099999999999999,0.845,0.054000000000000006,0.7895,sith,red,Male,Human,gray,gray,green,1.7
+Yuvar Xal,71,12.011387386524994,0.076,0.8320000000000001,0.09300000000000001,-0.9762,sith,red,Male,Human,black,green,green,2.01
+Thannor Keth,77,13.56612648221344,0.076,0.762,0.162,-0.9995,sith,red,Male,,black,other,dark,1.46
+Darth Jadus,55,13.074487418800864,0.098,0.809,0.09300000000000001,0.882,sith,red,Male,Human,white,blue,light,1.56
+Darth Decimus,26,13.132531041069717,0.069,0.7829999999999999,0.14800000000000002,-0.9847,sith,red,Male,Human,bald,other,pale,0.93
+Qordis,54,11.673996549344373,0.067,0.8140000000000001,0.12,-0.9941,sith,red,Male,Human,white,gray,light,1.81
+Kopecz,143,14.263909614576384,0.083,0.787,0.131,-0.9993,sith,red,Male,Twi\'lek,white,other,purple,2.35
+Korek,19,7.914072096128169,0.028999999999999998,0.9059999999999999,0.065,-0.6369,sith,red,Male,Human,white,other,pale,0.4
+Freedon Nadd,352,13.400289327719186,0.08800000000000001,0.7929999999999999,0.11900000000000001,-0.9999,sith,red,Male,Human,gray,yellow,other,1.84
+Darth Rivan,56,11.441376167691956,0.048,0.884,0.067,-0.9674,sith,red,Male,Zelosian,white,green,tan,2.79
+Darth Vengean,41,10.515632107023414,0.069,0.804,0.127,-0.9856,sith,red,Male,Human,blond,other,light,1.6
+Ajunta Pall,76,11.337572393447713,0.069,0.83,0.102,-0.9956,sith,red,Male,Human,gray,blue,fair,0.78
+Lomi Plo,68,12.277304790165324,0.08900000000000001,0.7809999999999999,0.13,-0.9985,sith,red,Female,Human,other,other,red,2.28
+Lumiya,1023,15.624735475056925,0.096,0.782,0.122,-1.0,sith,red,Female,Human,other,green,fair,1.0
+Darth Wredd's master,60,12.326935483870967,0.052000000000000005,0.802,0.146,-0.9984,sith,red,Male,,bald,yellow,red,1.69
+Shak'Weth,71,16.774609393164383,0.055999999999999994,0.8079999999999999,0.136,-0.9985,sith,red,Male,Human,other,blue,light,1.72
+Spirit protector,86,14.623578272156838,0.105,0.8340000000000001,0.061,0.9877,sith,red,Female,Alien,white,other,other,1.46
+Darth Baras,227,12.158125576502956,0.084,0.784,0.132,-0.9997,sith,red,Male,Human,gray,brown,light,1.61
+Na'daz,43,11.398445132438946,0.035,0.871,0.094,-0.9648,sith,red,Male,Twi\'lek,other,blue,purple,1.78
+Darth Wyyrlok (II),42,10.560678906486434,0.042,0.9259999999999999,0.032,0.3597,sith,red,Female,Chagrian,other,blue,red,1.87
+Adas,98,11.065770650014192,0.069,0.8320000000000001,0.1,-0.9978,sith,red,Male,Sith,other,yellow,other,1.76
+Darth Plagueis,102,13.241587975164158,0.09300000000000001,0.813,0.095,-0.9379,sith,red,Male,Muun,bald,blue,red,1.59
+Anakin Skywalker,3091,12.974591185245608,0.08,0.782,0.138,-1.0,sith,red,Male,Human,blond,blue,fair,1.0
+Jorak Uln,110,10.528204639563334,0.051,0.836,0.114,-0.9984,sith,red,Male,Human,gray,other,pale,1.87
+Darth Guile,24,10.663834586466166,0.031,0.9209999999999999,0.049,-0.5423,sith,red,Male,,black,brown,pale,1.91
+Githany,130,11.542989779628243,0.09699999999999999,0.772,0.132,-0.9985,sith,red,Female,Human,black,green,light,2.04
+Kreia,418,13.558042145939872,0.07200000000000001,0.816,0.113,-0.9999,sith,red,Female,Human,gray,other,fair,1.82
